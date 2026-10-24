@@ -97,3 +97,4 @@ Special thanks to [Caneco](https://twitter.com/caneco) for the original logo.
 ## License
 
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+Research analysis note: SonarQube Cloud analysis is configured to include PHP files under src/.
